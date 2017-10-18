@@ -29,6 +29,8 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
+
+
 ### Setting up a CUDA-enabled GPU instance on EC2:
 
 ```bash
